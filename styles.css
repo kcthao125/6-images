@@ -1,0 +1,53 @@
+html{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p{
+    line-height: 1.5;
+    font-size: 20px;
+}
+
+.t::first-letter{
+    initial-letter: 3;
+    color: gold;
+    margin-right: 10px;
+}
+
+.site-heading{
+    border-bottom: 1.5px solid lightgray;
+    padding-bottom: 30px;
+}
+
+.by-line{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.links{
+    color:blue;
+}
+
+.blog-image{
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    max-height: 100%;
+}
+
+.caption{
+    background-color: lightgray;
+    font-size: 13px;
+    margin: 0;
+    margin-top:-4px;
+    margin-bottom:50px;
+    border-top: 5px solid gold;
+    padding: 15px;
+    line-height: 1.5;
+}
+
+.site-wrapper{
+    max-width: 700px;
+    margin:0 auto;
+
+}
+
